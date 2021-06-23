@@ -1,0 +1,24 @@
+h1{
+    color:blue;      
+    border: dashed;
+}
+.header{
+ background-color: aqua;
+ display: flex;
+ justify-content: space-around;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.grid{
+    margin: 10px;
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: lawngreen;
+font-family: fantasy;
+}
+.footer{
+display: flex;
+justify-content: left;
+}
